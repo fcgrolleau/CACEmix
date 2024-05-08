@@ -9,7 +9,7 @@
 This repository reproduces results from the paper *Estimating Complier Average Causal Effects with Mixtures of Experts* [<a href="https://arxiv.org/pdf/2405.02779">*arXiv*</a>].
 
 ### Authors
-This repository is written and maintained by François Grolleau (grolleau@stanford.edu
+This repository is written and maintained by François Grolleau (grolleau@stanford.edu).
 
 ### Reproducibility
 
