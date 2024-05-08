@@ -2,7 +2,6 @@
  
 <!-- badges: start -->
 [![license](https://img.shields.io/badge/license-MIT-blue)](https://github.com/fcgrolleau/Dynamic-RRT/blob/main/LICENSE)
-[![R badge](https://img.shields.io/badge/Build%20with-%20R,%20♥%20and%20Python-blue)](https://rstudio.github.io/reticulate/index.html)
 [![R 4.2.1](https://img.shields.io/badge/R-4.3.3-blue.svg)](https://www.r-project.org) 
 <!-- badges: end -->
 
