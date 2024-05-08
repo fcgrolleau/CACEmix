@@ -14,13 +14,23 @@ This repository is written and maintained by François Grolleau (grolleau@stanfo
 ### Reproducibility
 
 `em_part1.R` implements the EM Algorithm C.1 from the paper (step 1.)
+
 `em_part1_mon.R` implements the EM Algorithm C.12 from the paper (step 1 with monotonicity.)
-`em_part2_bin_er.R` implements the EM Algorithm C.2 from the paper (step 2 with monotonicity.)
-`em_part2_bin_test.R` mis
-`full_fun_er_fix.R` mis
+
+`em_part2_bin_er.R` implements the EM Algorithm C.7 from the paper (step 2 with exclusion restriction.)
+
+`em_part2_bin_test.R` implements the EM Algorithm C.2 from the paper (step 2.)
+
 `full_fun_er_fix2.R` implements the EM Algorithm C.7 from the paper (step 2 with exclusion restriction.)
-`full_fun_er_fix_eff_wrong.R` mis
+
 `gen_dat_full.R` data generating process from the simulations.
+
 `plot_sim.R` plots figures 1 and 4 from simulation results.
+
 `simulation_funs.r` functions to prepare the parallelized simulation.
-`simulations.R` code the run the simumations and save results.
+
+`simulations.R` code to run the simulations and save the results.
+
+`sim_res/table/convergence.R` reproduces the convergence plots given figures 2 and 5.
+
+Miscellananeous: `full_fun_er_fix.R`, `full_fun_er_fix_eff_wrong.R`
