@@ -32,4 +32,4 @@ This repository is written and maintained by François Grolleau (grolleau@stanfo
 
 `sim_res/table/convergence.R` reproduces the convergence plots given figures 2 and 5.
 
-Miscellananeous: `full_fun_er_fix.R`, `full_fun_er_fix_eff_wrong.R`
+Miscellananeous: `full_fun_er_fix.R`, `full_fun_er_fix_eff_old.R`
